@@ -1,0 +1,278 @@
+﻿++Solução 'SalesWebMvc' ‎(1 de 1 projeto)
+i:{00000000-0000-0000-0000-000000000000}:SalesWebMvc.sln
+++SalesWebMvc
+i:{00000000-0000-0000-0000-000000000000}:SalesWebMvc
+++Connected Services 
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:>307
+++LocalDB do SQL Server Express (Local) (ConnectionStrings:SalesWebMvcContext)
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:>903
+++Dependências
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:>306
+++Analisadores
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:analisadores
+++Estruturas
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:estruturas
+++Pacotes
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:pacotes
+++Properties
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\properties\
+++launchSettings.json
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\properties\launchsettings.json
+++serviceDependencies.json
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\properties\servicedependencies.json
+++wwwroot
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\
+++css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\css\
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\js\
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\
+++favicon.ico
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\favicon.ico
+++Controllers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\controllers\
+++DepartmentsController.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\controllers\departmentscontroller.cs
+++HomeController.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\controllers\homecontroller.cs
+++Data
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\data\
+++Models
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\models\
+++ViewModels
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\models\viewmodels\
+++ErrorViewModel.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\models\viewmodels\errorviewmodel.cs
+++Department.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\models\department.cs
+++Views
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\
+++Departments
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\departments\
+++Home
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\home\
+++About.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\home\about.cshtml
+++Index.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\home\index.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\departments\index.cshtml
+++Privacy.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\home\privacy.cshtml
+++Shared
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\shared\
+++_ViewImports.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\_viewstart.cshtml
+++appsettings.json
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\appsettings.json
+++Program.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\program.cs
+++MessagePackAnalyzer
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\users\acer\.nuget\packages\messagepackanalyzer\2.1.152\analyzers\dotnet\messagepackanalyzer.dll
+++Microsoft.AspNetCore.Analyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.Internal.SourceGenerator.Transport
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.internal.sourcegenerator.transport.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\users\acer\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\users\acer\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\users\acer\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.1\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++System.Text.Json.SourceGeneration
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.1\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.AspNetCore.App
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.1)
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:>341
+++Microsoft.EntityFrameworkCore.Tools (6.0.1)
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:>884
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (6.0.1)
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:>337
+++serviceDependencies.local.json
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\properties\servicedependencies.local.json
+++site.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\css\site.css
+++site.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\js\site.js
+++bootstrap
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\
+++jquery
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery\
+++jquery-validation
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation-unobtrusive\
+++SalesWebMvcContext.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\data\saleswebmvccontext.cs
+++Create.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\departments\create.cshtml
+++Delete.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\departments\delete.cshtml
+++Details.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\departments\details.cshtml
+++Edit.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\departments\edit.cshtml
+++_Layout.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\shared\error.cshtml
+++appsettings.Development.json
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\appsettings.development.json
+++dist
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery\dist\
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery\license.txt
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++_Layout.cshtml.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\views\shared\_layout.cshtml.css
+++jquery.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++appsettings.json~RF55b29a3.TMP
+++Pomelo.EntityFrameworkCore.MySql (6.0.0)
+++MySql.EntityFrameworkCore (5.0.0)
+++Pomelo.EntityFrameworkCore.MySql (2.1.1)
+++Migrations
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\migrations\
+++20211228180207_Initial.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\migrations\20211228180207_initial.cs
+++SalesWebMvcContextModelSnapshot.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\migrations\saleswebmvccontextmodelsnapshot.cs
+++20211228180207_Initial.Designer.cs
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\migrations\20211228180207_initial.designer.cs
+++bootstrap-flatly.css
+i:{fdb4daf5-c2c1-4c60-bb6f-5b9e2eb29394}:e:\c#  - .net\udemy\18 - projeto\saleswebmvc\saleswebmvc\wwwroot\lib\bootstrap\dist\css\bootstrap-flatly.css
